@@ -1,7 +1,10 @@
+LaunchTargetManager/configs/UART_DeepSleep_WakeUp=org.eclipse.launchbar.core.launchTargetType.local\:Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:UART_DeepSleep_WakeUp
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:UART_DeepSleep_WakeUp,org.eclipse.launchbar.core.descriptorType.default\:UART_DeepSleep_WakeUp Default
 eclipse.preferences.version=1
-org.eclipse.launchbar.core.descriptorType.default\:UART_DeepSleep_WakeUp/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:UART_DeepSleep_WakeUp\ Default/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:UART_DeepSleep_WakeUp\ Default/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:UART_DeepSleep_WakeUp/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:UART_DeepSleep_WakeUp/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
